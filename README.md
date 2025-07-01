@@ -20,4 +20,4 @@ bash
 python calculadora.py
 
 ### Creditos
-Projeto baseado exemplos fornecidos pela trilha de programação em Python da Fundação Bradesco, com diversas adaptações e execução pessoal.
+Projeto baseado em exemplos fornecidos pela trilha de programação em Python da Fundação Bradesco, com diversas adaptações e execução pessoal.
